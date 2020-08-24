@@ -1,0 +1,26 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Centro de Gest{\~a}o e Estudos Estrat{\'e}gicos 2012]{cgee}
+\abntrefinfo{CGEE}{CGEE}{2012}
+{CENTRO DE GEST{\~A}O E ESTUDOS ESTRAT{\'E}GICOS. \emph{{Redes elétricas
+  inteligentes: contexto nacional}}.
+Brasília, 2012. 172~p.}
+
+\bibitem[Hossain, Oo e Ali 2013]{ali2013smart}
+\abntrefinfo{Hossain, Oo e Ali}{HOSSAIN; OO; ALI}{2013}
+{HOSSAIN, M.~R.; OO, A. M.~T.; ALI, A. B. M.~S. Smart grid.
+In:  \underline{\ \ \ \ \ \ \ \ }. \emph{Smart grids: opportunities,
+  developments, and trends}. 1. ed. London: Springer, 2013. cap.~2, p. 23--44.}
+
+\bibitem[Yu et al. 2011]{yu2011new}
+\abntrefinfo{Yu et al.}{YU et al.}{2011}
+{YU, X. et al. The new frontier of smart grids.
+\emph{IEEE Industrial Electronics Magazine}, IEEE, v.~5, n.~3, p. 49--63,
+  2011.}
+
+\end{thebibliography}
